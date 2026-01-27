@@ -1,0 +1,1 @@
+export {default as splitName} from "./splitName.js"
