@@ -1,0 +1,1 @@
+export {default as errorHandler} from './error/error-handler-middleware.js';
